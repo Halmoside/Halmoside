@@ -29,7 +29,7 @@
 
 ---
 
-## 🔥 **3D GitHub Stats & Achievements**  
+## 🔥 ** GitHub Stats & Achievements**  
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Halmoside&theme=tokyonight" width="80%" />
@@ -41,7 +41,7 @@
 
 ---
 
-## 🏆 **Dynamic 3D GitHub Contributions**  
+## 🏆 **GitHub Contributions**  
 ![3D GitHub Buildings Graph](https://github.com/Halmoside/github-stats/blob/master/generated/3d-contrib/preview.gif)  
 
 **🔥 The more you contribute, the taller your buildings grow! 🔥**  
