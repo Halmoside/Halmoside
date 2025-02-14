@@ -25,8 +25,6 @@
   </p>
 </div>
 
-🛠️ **Hover over the icons to see tool names!** (Enable tooltips in browser)
-
 ---
 
 ## 🔥 **GitHub Stats & Achievements**  
@@ -35,16 +33,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Halmoside&theme=tokyonight" width="80%" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Halmoside&theme=tokyonight&fire=FF5733" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Halmoside&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=Halmoside&theme=matrix&no-bg=true&no-frame=true&margin-w=15&row=1&column=6" />
 </div>
-
----
-
-## 🏆 **GitHub Contributions**  
-![3D GitHub Buildings Graph](https://github.com/Halmoside/github-stats/blob/master/generated/3d-contrib/preview.gif)  
-
-**🔥 The more you contribute, the taller your buildings grow! 🔥**  
 
 ---
 
@@ -52,10 +44,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halmoside&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Halmoside&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Halmoside&repo=50-Days-Of-Javascript&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Halmoside&theme=tokyonight&hide_border=true" width="45%"/>
 </div>
 
 ---
